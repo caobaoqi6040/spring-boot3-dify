@@ -3,8 +3,6 @@
     <h1 align="center">spring-boot3-dify</h1>
 </div>
 
----
-
 ## Features ✨
 
 TODO
