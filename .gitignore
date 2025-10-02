@@ -1,3 +1,11 @@
+### dify ###
+docker/dify/nginx/conf.d/default.conf
+docker/dify/volumes
+!docker/dify/volumes/myscale
+!docker/dify/volumes/oceanbase
+!docker/dify/volumes/opensearch
+!docker/dify/volumes/sandbox
+
 ### env ###
 .env
 
